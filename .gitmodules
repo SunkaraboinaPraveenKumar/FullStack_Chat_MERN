@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SunkaraboinaPraveenKumar/MERN_CHAT_BACKEND
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SunkaraboinaPraveenKumar/MENR_CHAT_FROnt
